@@ -6,7 +6,7 @@ http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.ink:6969/announce
+http://public.tracker.vraphim.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -18,13 +18,11 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.tfile.co:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -112,13 +110,13 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+udp://tracker.deadorbit.nl:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -130,8 +128,6 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -142,7 +138,11 @@ udp://tracker.waaa.moe:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://z.mercax.com:53/announce
 
